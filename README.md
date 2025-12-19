@@ -1,3 +1,4 @@
+
 🛠️ Technical Support Incident Tracking & Resolution System
 📌 Overview
 
@@ -16,50 +17,43 @@ Reopen issues if needed
 
 🧑‍💻 Support Engineer
 
-View and manage assigned issues
+Manage assigned issues
 
-Update status (Open, In Progress, Resolved)
-
-Assign ownership
+Update status and priority
 
 Add internal and resolution notes
 
-Track priority, SLA, and activity timeline
+Track SLA timelines and activity history
 
 Escalate issues when required
 
-⏱️ SLA & Tracking
+⏱️ Tracking & SLA
 
-Priority-based SLA timelines
+Priority-based response timelines
 
-Complete issue activity history
+Complete issue activity timeline
 
-Location awareness for better support context
+Location-aware issue context
 
 🎨 UI & Access
 
-Clean, modern, high-contrast UI
+Clean, modern interface
 
-Role-based access for users and support engineers
+Role-based access control
 
-Secure action logging and traceability
+Secure action logging
 
 🚀 Why This Project
 
-Demonstrates practical technical support skills, incident lifecycle understanding, SLA awareness, and strong user communication—ideal for fresher support roles.
+Demonstrates real-world technical support workflows, incident management, SLA awareness, and effective user communication.
 
-📚 Target Roles
+📚 Suitable For Roles
 
 Technical Support Engineer
 
 IT Support Analyst
 
 Support Operations
-
-👨‍🎓 Author
-
-Manikant Hooli
-Information Science Engineering Graduate
 
 <img width="1302" height="857" alt="image" src="https://github.com/user-attachments/assets/33fedd6a-6b85-401e-b5e8-1eaf64093887" />
 
